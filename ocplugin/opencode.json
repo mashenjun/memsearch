@@ -1,0 +1,9 @@
+{
+  "command": {
+    "memory-recall": {
+      "template": "Search and recall relevant memories from past sessions about: $ARGUMENTS. Use the memsearch_search tool to find relevant memories, then memsearch_expand on the most relevant results to get full context. Return a concise summary of what you found.",
+      "description": "Search past session memories for relevant context",
+      "subtask": true
+    }
+  }
+}
