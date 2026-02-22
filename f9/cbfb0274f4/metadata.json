@@ -1,0 +1,28 @@
+{
+  "cli_version": "dev",
+  "checkpoint_id": "f9cbfb0274f4",
+  "strategy": "manual-commit",
+  "branch": "shenjun/add-ocplugin",
+  "checkpoints_count": 2,
+  "files_touched": [
+    "ocplugin/.gitignore",
+    "ocplugin/PHASE0-DECISION.md",
+    "ocplugin/opencode.json"
+  ],
+  "sessions": [
+    {
+      "metadata": "/f9/cbfb0274f4/0/metadata.json",
+      "transcript": "/f9/cbfb0274f4/0/full.jsonl",
+      "context": "",
+      "content_hash": "/f9/cbfb0274f4/0/content_hash.txt",
+      "prompt": ""
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 0,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 0,
+    "output_tokens": 0,
+    "api_call_count": 0
+  }
+}
